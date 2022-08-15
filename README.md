@@ -3,3 +3,4 @@ This project have functions including create a user with email, username and pas
 
 You also need to download tool kit by typing <npm install aws-amplify @aws-amplify/ui-react> in your command line without "<>".
 
+If you are new to AWS, please visit <https://aws.amazon.com/getting-started/?nc2=h_ql_le_gs>.
